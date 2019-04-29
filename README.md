@@ -1,0 +1,2 @@
+# studyGit
+first touch git
